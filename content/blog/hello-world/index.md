@@ -25,4 +25,4 @@ And gonna modified to replicate as anime show in [Yuru Camp△](https://yurucamp
 
 That's it for now, hope everyone enjoy my firt post in this testing blog.
 
-![Levi Top](./sa-aot6.gif)
+![Levi Top](./sa-aot6.png)
