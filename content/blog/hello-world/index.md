@@ -23,6 +23,6 @@ And gonna modified to replicate as anime show in [Yuru Camp△](https://yurucamp
 ![Suzuki Hustler which drive by Toba Minami](./yurucamps2hustler4.jpg)
 
 
-That's it for now, hope everyone enjoy my firt post in this testing blog.
+That's it for now, hope everyone enjoy my first post in this testing blog.
 
 ![Levi Top](./sa-aot6.png)
