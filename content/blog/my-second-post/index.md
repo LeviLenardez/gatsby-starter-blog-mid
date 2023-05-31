@@ -1,13 +1,13 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: 2nd Post.
+date: "2023-05-31T03:30:45.154Z"
 ---
 
-Wow! I love blogging so much already.
+Phew, creating 2nd post right now for my blog.
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+Hmmmm, thkinking gonna upgrade my Hustler while
+not to waste more fuel on engine.
+now need find fuel regulator and fuel pump for my Hustler
+([Wikipedia Link](https://en.wikipedia.org/wiki/Fuel_pump)
 
-Yeah, I didn't either.
+Well, need try that.
